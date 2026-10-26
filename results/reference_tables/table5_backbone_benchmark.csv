@@ -1,0 +1,7 @@
+,Pre-training,Params (M),QWK [95% CI],Macro F1,Macro AUC,Osteoporosis AUC [95% CI],Osteoporosis sens.,T-score MAE,p DeLong vs raddino (Holm),p QWK vs raddino (Holm)
+densenet121,"ImageNet-1k, supervised",7.0,0.613 [0.565–0.656],0.602,0.794,0.839 [0.811–0.866],0.624,0.914,< 0.001,< 0.001
+resnet50,"ImageNet-1k, supervised",23.5,0.619 [0.568–0.664],0.622,0.792,0.846 [0.819–0.873],0.638,0.933,< 0.001,< 0.001
+efficientnet_b3,"ImageNet-1k, supervised",10.7,0.631 [0.588–0.672],0.622,0.795,0.855 [0.829–0.883],0.688,0.919,0.010,< 0.001
+convnext_base,"ImageNet-22k, supervised",87.6,0.642 [0.601–0.680],0.62,0.807,0.860 [0.834–0.886],0.575,0.885,0.024,< 0.001
+dinov2,"natural images (LVD-142M), self-supervised",86.6,0.667 [0.626–0.706],0.643,0.814,0.865 [0.839–0.890],0.606,0.88,0.032,0.046
+raddino,"radiographs, self-supervised",86.6,0.701 [0.664–0.735],0.667,0.837,0.887 [0.864–0.911],0.683,0.805,,

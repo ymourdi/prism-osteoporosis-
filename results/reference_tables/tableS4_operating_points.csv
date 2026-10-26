@@ -1,0 +1,5 @@
+,Threshold,Sensitivity,Specificity,PPV,NPV,Patients referred to DXA
+Sensitivity ≥ 0.80,0.359,0.801,0.814,0.623,0.914,284.0
+Sensitivity ≥ 0.85,0.267,0.851,0.757,0.573,0.929,328.0
+Sensitivity ≥ 0.90,0.222,0.905,0.715,0.549,0.951,364.0
+Sensitivity ≥ 0.95,0.134,0.95,0.621,0.491,0.97,428.0

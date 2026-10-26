@@ -1,0 +1,8 @@
+,QWK,Macro F1,Macro AUC,Osteoporosis AUC,Δ QWK vs full,p QWK vs full (Holm)
+Clinical only (MLP),0.455,0.52,0.694,0.743,-0.245,< 0.001
+Radiograph only,0.66,0.634,0.82,0.874,-0.04,0.102
+Radiograph + clinical,0.662,0.638,0.817,0.873,-0.038,0.070
+PRISM w/o privileged DXA targets,0.693,0.665,0.833,0.883,-0.008,0.684
+PRISM w/o self-distillation,0.691,0.656,0.83,0.886,-0.01,0.684
+PRISM w/o T-score regression,0.669,0.645,0.818,0.871,-0.031,0.070
+PRISM (full),0.701,0.667,0.837,0.887,0.0,

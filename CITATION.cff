@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper and the LUMOS dataset."
+title: "PRISM: opportunistic osteoporosis screening from lumbar radiographs (code and predictions)"
+version: 1.0.0
+date-released: 2026-10-26
+license: MIT
+repository-code: "https://github.com/ymourdi/prism-osteoporosis-"
+authors:
+  - family-names: Mourdi
+    given-names: Youssef
+    affiliation: "Cadi Ayyad University, Morocco"
+    email: y.mourdi@uca.ac.ma
+  - family-names: El Alaoui El Abdallaoui
+    given-names: Hasna
+    affiliation: "Cadi Ayyad University, Morocco"
+  - family-names: Allioui
+    given-names: Hanane
+    affiliation: "Ibn Toufail University, Morocco"
+keywords:
+  - osteoporosis
+  - opportunistic screening
+  - lumbar radiography
+  - deep learning
+  - foundation model
+  - RAD-DINO
+references:
+  - type: conference-paper
+    title: "LUMOS: A Lumbar Multimodal Osteoporosis Screening Dataset with X-ray and CT images"
+    authors:
+      - family-names: Shi
+        given-names: Keyue
+      - family-names: Shen
+        given-names: Qianqian
+      - family-names: Ye
+        given-names: Zhaoming
+      - family-names: Jiang
+        given-names: Liangjun
+      - family-names: Bu
+        given-names: Jiajun
+      - family-names: Wang
+        given-names: Haishuai
+    collection-title: "Proceedings of the 33rd ACM International Conference on Multimedia"
+    year: 2025
+    doi: 10.1145/3746027.3758282

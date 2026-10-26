@@ -1,0 +1,3 @@
+Configuration,QWK frozen,QWK fine-tuned,Osteo. AUC frozen,Osteo. AUC fine-tuned,Δ QWK
+raddino | full | keep,0.701,0.574,0.887,0.823,-0.127
+raddino | full+spine | flag,0.704,0.519,0.888,0.789,-0.185

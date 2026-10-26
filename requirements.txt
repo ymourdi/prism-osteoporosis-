@@ -1,0 +1,18 @@
+# Results of the paper were obtained with Python 3.9 and PyTorch 2.8 (Apple Silicon, MPS backend).
+# Checking the published results (scripts/reproduce_tables.py) only needs the first block.
+numpy
+pandas
+scipy
+scikit-learn
+openpyxl
+
+# Full pipeline (notebooks/PRISM_LUMOS.ipynb)
+torch>=2.0
+torchvision
+timm
+transformers
+pillow
+matplotlib
+seaborn
+tqdm
+jupyterlab

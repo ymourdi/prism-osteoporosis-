@@ -1,0 +1,4 @@
+,Pre-training,QWK (all) [95% CI],Osteo. AUC (all),QWK (CT) [95% CI],Osteo. AUC (CT),T-score MAE (CT),Δ QWK (CT) vs raddino,p QWK all (Holm),p QWK CT (Holm),p DeLong CT (Holm)
+resnet50,"ImageNet-1k, supervisé",0.690 [0.651–0.725],0.886,0.686 [0.611–0.756],0.891,0.772,-0.016,0.580,0.716,0.241
+raddino,"radiographies, auto-supervisé",0.701 [0.664–0.735],0.887,0.702 [0.629–0.769],0.903,0.765,0.0,,,
+dinov2,"photos naturelles (LVD-142M), auto-supervisé",0.693 [0.652–0.729],0.88,0.701 [0.625–0.767],0.882,0.785,-0.002,0.580,0.928,0.064

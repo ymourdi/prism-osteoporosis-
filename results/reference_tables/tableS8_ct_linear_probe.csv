@@ -1,0 +1,4 @@
+,Spearman ρ (T-score),T-score MAE,Osteoporosis AUC,p DeLong vs main
+resnet50,0.702,1.0,0.78,0.095
+raddino,0.67,1.067,0.843,
+dinov2,0.754,0.921,0.804,0.222

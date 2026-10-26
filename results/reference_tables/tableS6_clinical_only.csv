@@ -1,0 +1,4 @@
+,QWK,Osteoporosis AUC,p QWK vs LR
+Logistic regression (baseline),0.41,0.737,
+"PRISM head, MLP",0.455,0.743,0.028
+"PRISM head, linear",0.453,0.739,0.028
